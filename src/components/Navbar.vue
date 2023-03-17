@@ -31,11 +31,11 @@ export default {
           name: "Counter",
           link: "/counter",
         },
-        {
-          id: 3,
-          name: "Error",
-          link: "/error",
-        },
+        // {
+        //   id: 3,
+        //   name: "Error",
+        //   link: "/error",
+        // },
       ],
     };
   },
@@ -63,10 +63,6 @@ nav {
   justify-content: space-between;
   align-items: center;
   margin-top: 10px;
-}
-
-.link {
-	text-decoration: none;
 }
 
 ul {

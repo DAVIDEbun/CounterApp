@@ -21,7 +21,7 @@
 <style scoped>
 .container {
   width: 100%;
-  margin-top: 80px;
+  margin-top: 40px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -33,7 +33,8 @@
 
 h1 {
   font-size: 50px;
-  font-weight: 600px;
+  font-weight: bolder;
+  line-height: 60px;
 }
 
 p {
